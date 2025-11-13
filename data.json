@@ -1,0 +1,130 @@
+{
+  "students": [
+    {
+      "student_id": "S001",
+      "name": "Alice Johnson",
+      "grade": 8,
+      "class": "A",
+      "region": "North",
+      "homework_submitted": true,
+      "homework_date": "2025-11-10",
+      "quiz_score": 85,
+      "quiz_date": "2025-11-08"
+    },
+    {
+      "student_id": "S002",
+      "name": "Bob Smith",
+      "grade": 8,
+      "class": "A",
+      "region": "North",
+      "homework_submitted": false,
+      "homework_date": "2025-11-10",
+      "quiz_score": 72,
+      "quiz_date": "2025-11-08"
+    },
+    {
+      "student_id": "S003",
+      "name": "Carol Davis",
+      "grade": 8,
+      "class": "B",
+      "region": "North",
+      "homework_submitted": true,
+      "homework_date": "2025-11-10",
+      "quiz_score": 91,
+      "quiz_date": "2025-11-08"
+    },
+    {
+      "student_id": "S004",
+      "name": "David Lee",
+      "grade": 8,
+      "class": "B",
+      "region": "North",
+      "homework_submitted": false,
+      "homework_date": "2025-11-10",
+      "quiz_score": 68,
+      "quiz_date": "2025-11-08"
+    },
+    {
+      "student_id": "S005",
+      "name": "Emma Wilson",
+      "grade": 9,
+      "class": "A",
+      "region": "South",
+      "homework_submitted": true,
+      "homework_date": "2025-11-11",
+      "quiz_score": 88,
+      "quiz_date": "2025-11-09"
+    },
+    {
+      "student_id": "S006",
+      "name": "Frank Brown",
+      "grade": 9,
+      "class": "A",
+      "region": "South",
+      "homework_submitted": false,
+      "homework_date": "2025-11-11",
+      "quiz_score": 75,
+      "quiz_date": "2025-11-09"
+    },
+    {
+      "student_id": "S007",
+      "name": "Grace Taylor",
+      "grade": 7,
+      "class": "A",
+      "region": "East",
+      "homework_submitted": true,
+      "homework_date": "2025-11-09",
+      "quiz_score": 94,
+      "quiz_date": "2025-11-07"
+    },
+    {
+      "student_id": "S008",
+      "name": "Henry Martinez",
+      "grade": 7,
+      "class": "A",
+      "region": "East",
+      "homework_submitted": false,
+      "homework_date": "2025-11-09",
+      "quiz_score": 81,
+      "quiz_date": "2025-11-07"
+    }
+  ],
+  "quizzes": [
+    {
+      "quiz_id": "Q001",
+      "title": "Math Quiz - Algebra",
+      "grade": 8,
+      "class": "A",
+      "region": "North",
+      "scheduled_date": "2025-11-18",
+      "status": "upcoming"
+    },
+    {
+      "quiz_id": "Q002",
+      "title": "Science Quiz - Physics",
+      "grade": 8,
+      "class": "B",
+      "region": "North",
+      "scheduled_date": "2025-11-19",
+      "status": "upcoming"
+    },
+    {
+      "quiz_id": "Q003",
+      "title": "English Quiz - Grammar",
+      "grade": 9,
+      "class": "A",
+      "region": "South",
+      "scheduled_date": "2025-11-20",
+      "status": "upcoming"
+    },
+    {
+      "quiz_id": "Q004",
+      "title": "History Quiz - World War II",
+      "grade": 7,
+      "class": "A",
+      "region": "East",
+      "scheduled_date": "2025-11-17",
+      "status": "upcoming"
+    }
+  ]
+}
